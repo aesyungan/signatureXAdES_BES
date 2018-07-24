@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>RUEDA OVIEDO GLADYS SUSANA</razonSocial>
+<ruc>0700575780001</ruc>
+<claveAcceso>2506201801070057578000120031010000060400000604014</claveAcceso>
+<codDoc>01</codDoc>
+<estab>003</estab>
+<ptoEmi>101</ptoEmi>
+<secuencial>000006040</secuencial>
+<dirMatriz>AV ELOY ALFARO Y AV LEOPOLDO FREIRE</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>25/06/2018</fechaEmision>
+<dirEstablecimiento>AV LIZARZABURU Y AV 11 DE NOVIEMBRE</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>PAUL PAGUAY</razonSocialComprador>
+<identificacionComprador>0602724775001</identificacionComprador>
+<totalSinImpuestos>0.54</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>0.54</baseImponible>
+<valor>0.06</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>0</baseImponible>
+<valor>0</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0</propina>
+<importeTotal>0.6</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>0.60</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>1307</codigoPrincipal>
+<descripcion>INCA CRISTAL P</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>    0.5357</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>0.54</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>0.54</baseImponible>
+<valor>0.06</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">LA TARAZANA</campoAdicional>
+<campoAdicional nombre="EmaiL">ulvierps hotmail com</campoAdicional>
+<campoAdicional nombre="NumDocumento">FR0041583A-2004-F</campoAdicional>
+</infoAdicional>
+</factura>
